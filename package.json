@@ -43,7 +43,7 @@
   "dependencies": {
     "get-node-dimensions": "^1.2.0",
     "prop-types": "^15.5.10",
-    "resize-observer-polyfill": "1.4.2"
+    "resize-observer-polyfill": "https://github.com/stefen/resize-observer-polyfill#1c85a10da3807d8a6c83c5f5de839e8ec1b9229f"
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",
